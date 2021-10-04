@@ -4,7 +4,7 @@
 Any web server software such as Xampp or Wamp
 
 # Usage
-Import the anime.sql file in your phpmyadmin -> New database then import the sql file.
+Import the vivouche.sql file in your phpmyadmin -> New database then import the sql file.
 You will have 4 tables : article, commande, comment and test
 
 # If you're using Xampp 
